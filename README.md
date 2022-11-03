@@ -1,8 +1,10 @@
 # pycord-autocomplete-error
 
-Edit the bot.py file and add your token.
-Run the bot.
-Client uses the `/hello` command and the `option` field attempts to autocomplete with a simple static list.
+- Edit the bot.py file and add your token.
+- Run the bot.
+- Client uses the `/hello` command and the `option` field attempts to autocomplete with a simple static list.
+
+
 Error:
 
 ```
