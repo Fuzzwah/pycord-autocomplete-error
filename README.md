@@ -1,5 +1,6 @@
 # pycord-autocomplete-error
 
+- Install PyCord, `pip install py-cord`
 - Edit the bot.py file and add your token.
 - Run the bot.
 - Client uses the `/hello` command and the `option` field attempts to autocomplete with a simple static list.
